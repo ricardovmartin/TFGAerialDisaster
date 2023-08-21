@@ -1,0 +1,7 @@
+car
+person
+smoke
+debris
+flood
+emergency-vehicle
+fire
